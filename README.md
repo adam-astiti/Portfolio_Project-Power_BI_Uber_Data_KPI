@@ -106,7 +106,7 @@ As Power BI Service requires a license to publish reports publicly, this project
 
 **Instructions:**
 1.  Clone this repository to your local machine or download the source files.
-2.  The repository includes both the Power BI file (`Your_File_Name.pbix`) and the raw dataset.
+2.  The repository includes both the [Power BI file](https://github.com/adam-astiti/Portfolio_Project-Power_BI_Uber_Data_KPI/blob/main/Power_BI-%20Uber%20Data%20Analysis.pbix) and the raw dataset.
 3.  Open the `.pbix` file in Power BI Desktop to view and interact with the full report.
 
 ## 👤 Contact
